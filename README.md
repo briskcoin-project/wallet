@@ -6,5 +6,5 @@ Core wallet
 
 Lightweight wallet
 ----------------
-[Linux][Windows][MacOS][Android 64bit][Android 32bit]
+[Linux][Windows][MacOS][Android]
 

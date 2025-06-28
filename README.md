@@ -2,9 +2,9 @@ Briskcoin wallet
 ================
 Core wallet
 ----------------
-[Linux][Windows][MacOS][Paper Wallet]
+[Linux][Windows][MacOS][Paper Wallet][Web Wallet]
 
 Lightweight wallet
 ----------------
-[Linux][Windows][MacOS][Web Wallet][Android]
+[Linux][Windows][MacOS][Android]
 
